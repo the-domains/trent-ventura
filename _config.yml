@@ -1,7 +1,7 @@
 name: Trent Ventura
 favicon: null
-layout_spectrum: 0.572393044596538
-typography_spectrum: 0.3731653345748782
+layout_spectrum: 0.00361
+typography_spectrum: 0.75
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#F7EDF0'
-    - '#F4CBC6'
-    - '#F4AFAB'
-    - '#F4EEA9'
-    - '#F4F482'
-  brandStrength: 0.11844026576727629
-  lightness: 0.5528078100178391
-  saturation: 0.9338294453918934
-  rhythmicContrast: 0.9741263487376273
+    - '#f1f1f2'
+    - '#5e564f'
+    - '#999592'
+    - '#dbc3ad'
+    - '#ff7065'
+  brandStrength: 0.6875
+  lightness: 0.875
+  saturation: 0.1875
+  rhythmicContrast: 0.25
 purpose: []
