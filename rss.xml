@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Profile | SUP | Surf | Sail | Photography | Carpentry]]></title>
-        <description><![CDATA[Profile | SUP | Surf | Sail | Photography | Carpentry]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[| SUP | Surf | Sail | Photography | Carpentry | Art]]></title>
+        <description><![CDATA[| SUP | Surf | Sail | Photography | Carpentry | Art]]></description>
+        <link>https://thegrid.ai/trent-ventura/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 15 Apr 2016 12:03:41 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 25 Jun 2016 21:42:04 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/trent-ventura/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/084c795a-cfe7-4763-ae9a-162cfd9bb901.jpg">]]></description>
-            <link>undefinedhonolulu-hi-is-where-i-found-my-passion-there-is-something/index.html</link>
+            <link>https://thegrid.ai/trent-ventura/honolulu-hi-is-where-i-found-my-passion-there-is-something/index.html</link>
             <guid isPermaLink="false">2561516e-2cef-460b-becd-cd866328574b</guid>
-            <pubDate>Fri, 15 Apr 2016 12:03:41 GMT</pubDate>
+            <pubDate>Sat, 25 Jun 2016 21:42:02 GMT</pubDate>
         </item>
     </channel>
 </rss>
