@@ -1,6 +1,6 @@
-name: Trent Ventura
+name: Mowglife
 favicon: null
-layout_spectrum: 0.00361
+layout_spectrum: 0.38372
 typography_spectrum: 0.75
 title: '| SUP | Surf | Sail | Photography | Carpentry | Art'
 cta:
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#f1f1f2'
-    - '#5e564f'
-    - '#999592'
-    - '#dbc3ad'
-    - '#ff7065'
+    - '#ffffff'
+    - '#84817c'
+    - '#3b3c41'
+    - '#7cb6dc'
+    - '#1a070d'
   brandStrength: 0.6875
-  lightness: 0.875
-  saturation: 0.1875
-  rhythmicContrast: 0.25
+  lightness: 1
+  saturation: 0
+  rhythmicContrast: 1
 purpose: []
